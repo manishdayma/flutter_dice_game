@@ -1,25 +1,22 @@
 
+# 🔥🔥 Flutter Animated Dice Game
 
-# Flutter Dice Game Made In Flutter 2.8 with null safety 
+Flutter project for creating animated onboarding and login screen.
 
-# Please leave a STAR if you found this useful..
+Star⭐ the repo if you like what you like more stuff on flutter 😉.
 
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter.
 
-**Fonts**
+## Some Screenshots For You 💖
+ 
+<img height="480px" src="screenshots/1.jpg">|
+<img height="480px" src="screenshots/2.jpg">
+<img height="480px" src="screenshots/3.jpg">
+<img height="480px" src="screenshots/4.jpg">
+<img height="480px" src="screenshots/5.jpg">
+<img height="480px" src="screenshots/6.jpg">
 
-- Poppins [link](https://fonts.google.com/specimen/Poppins)
-
-
-## ScreenShoots
-
-## home page 
-<img height="480px" src="screenshots/1.jpg">
-<br>
-
-
-## next page
-<img height="480px" src="screenshots/2.jpg"><img height="480px" src="screenshots/3.jpg"><img height="480px" src="screenshots/4.jpg">
-<br>
-
-<img height="480px" src="screenshots/5.jpg"><img height="480px" src="screenshots/6.jpg">
 <br>
